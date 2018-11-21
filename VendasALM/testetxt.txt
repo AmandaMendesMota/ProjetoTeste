@@ -1,0 +1,140 @@
+==========================================
+              Nome da empresa              
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO      QTDE      VALOR UN.      VALOR
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+ GARCOM  CONTA.DIV.  VAL.PESS. COVER  DESC.
+ garcom  dividirconta   vlpessoa  cover   desconto
+===========================================
+SubTotal                            10,00
+                   ------------------------
+Total                                10,00
+===========================================
+       MENSAGEM DA EMPRESA VAI AQUI        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========================================
+              Nome da empresa              
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO      QTDE      VALOR UN.      VALOR
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+ GARCOM  CONTA.DIV.  VAL.PESS. COVER  DESC.
+ garcom  dividirconta   vlpessoa  cover   desconto
+===========================================
+SubTotal                            10,00
+                   ------------------------
+Total                                10,00
+===========================================
+       MENSAGEM DA EMPRESA VAI AQUI        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========================================
+              Nome da empresa              
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO      QTDE      VALOR UN.      VALOR
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+ GARCOM  CONTA.DIV.  VAL.PESS. COVER  DESC.
+ garcom  dividirconta   vlpessoa  cover   desconto
+===========================================
+SubTotal                            10,00
+                   ------------------------
+Total                                10,00
+===========================================
+       MENSAGEM DA EMPRESA VAI AQUI        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========================================
+              Nome da empresa              
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO      QTDE      VALOR UN.      VALOR
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+ GARCOM  CONTA.DIV.  VAL.PESS. COVER  DESC.
+ garcom  dividirconta   vlpessoa  cover   desconto
+===========================================
+SubTotal                            10,00
+                   ------------------------
+Total                                10,00
+===========================================
+       MENSAGEM DA EMPRESA VAI AQUI        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========================================
+              Nome da empresa              
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO      QTDE      VALOR UN.      VALOR
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+ GARCOM  CONTA.DIV.  VAL.PESS. COVER  DESC.
+ garcom  dividirconta   vlpessoa  cover   desconto
+===========================================
+SubTotal                            10,00
+                   ------------------------
+Total                                10,00
+===========================================
+       MENSAGEM DA EMPRESA VAI AQUI        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
